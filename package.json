@@ -36,9 +36,11 @@
   "dependencies": {
     "babel-polyfill": "^6.16.0",
     "classnames": "2.2.5",
+    "graphql-custom-types": "^0.7.3",
     "graphql-relay": "^0.4.3",
     "jwt-decode": "^2.1.0",
     "lodash": "^4.13.1",
+    "mysql": "^2.13.0",
     "react": "^15.3.1",
     "react-dom": "^15.3.1",
     "react-relay": "^0.9.3",
@@ -46,6 +48,8 @@
     "react-router-relay": "^0.13.5",
     "recompose": "^0.20.2",
     "sanitize.css": "^4.1.0",
+    "sequelize": "^3.30.4",
+    "sequelize-isunique-validator": "^1.1.1",
     "whatwg-fetch": "^1.0.0"
   },
   "devDependencies": {

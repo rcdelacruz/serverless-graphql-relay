@@ -1,4 +1,4 @@
-import 'babel-polyfill'; // needed to for async/await
+// import 'babel-polyfill'; // needed to for async/await
 
 import { GraphQLSchema } from 'graphql';
 import QueryType from './types/query';
